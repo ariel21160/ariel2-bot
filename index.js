@@ -1404,7 +1404,7 @@ axios.get(`https://st4rz.herokuapp.com/api/simsimi?kata=${teks}`).then((res) => 
 if (text.includes('.menu')) {
  var nomor = m.participant
  const options = {
-       text: `*Hai @${nomor.split("@s.whatsapp.net")[0]} aku ${BotName}* 
+       text: `*Hai @${nomor.split("@s.whatsapp.net")[0]} aku ${ariel2-bot}* 
 
 *JANGAN MALES BACA*
 
@@ -1440,9 +1440,9 @@ ${https://www.instagram.com/ariel_sovietico/}
 ├≽️ *.Intro*
 ├ _List intro newmem_ 
 ├≽️ *.Setname*
-├ _Merubah nama grup_ 
+├ _Cambiar nombre de grupo_
 ├≽️ *.Setdesc*
-├ _Merubah deskripsi grup_ 
+├ _Cambiar descripción de grupo_
 ├≽️ *.Opengc*
 ├ _Membuka grup_ 
 ├≽️ *.Closegc*
