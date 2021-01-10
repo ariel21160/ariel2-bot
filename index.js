@@ -1414,9 +1414,9 @@ _Ex artinya contoh_͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏�
 
  「 *LIST MENU* 」  
 
-> *Follow Me On Instagram* 
-${instagram}  
-> *Bot aktif selama : ${aktif}*
+> *siganme en instagram* 
+${https://www.instagram.com/ariel_sovietico/}  
+> *Bot activo durante : ${aktif}*
 
 ╭════•›「 SimSimi 」 
 ├≽️ *.Bot*
@@ -1430,8 +1430,8 @@ ${instagram}
 ├ _Menampilkan list menu_ 
 ├≽️ *.Info*
 ├ _Jika bot bermasalah_ 
-├≽️ *.Owner*
-├ _Info Admin bot_ 
+├≽️ *.creador*
+├  https://wa.me/qr/UW6OH2OEBMUXM1
 ├≽️ *.Install*
 ├ _Tutorial install bot_ 
 ╰═══════════════  
@@ -1452,7 +1452,7 @@ ${instagram}
 ╰═══════════════  
 
 ╭════•›「 Game 」 
-├≽️ *.Tebakgambar*
+├≽️ *.Adivina la imagen*
 ├ _Random tebak gambar_ 
 ├≽️ *.Family100*
 ├ _Random Pertanyaan Family100_ 
@@ -1516,7 +1516,7 @@ ${instagram}
 ╰═══════════════  
 
 ╭════•›「 TOOlS 」 
-├≽️ *.Stiker*
+├≽️ *.Sticker*
 ├ _Kirim foto ketik .stiker_ 
 ├≽️ *.Nulis*
 ├ _Ex = .Nulis aku cinta udin_ 
